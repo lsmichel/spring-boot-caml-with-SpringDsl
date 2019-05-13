@@ -1,0 +1,13 @@
+sn\atos\projet\tigo\cameltuto\processor\Producer$2.class
+sn\atos\projet\tigo\cameltuto\Application.class
+sn\atos\projet\tigo\cameltuto\processor\Producer.class
+sn\atos\projet\tigo\cameltuto\ExampleServices.class
+sn\atos\projet\tigo\cameltuto\beans\MyBean.class
+sn\atos\projet\tigo\cameltuto\message\sendInitialMessageToQueResponse.class
+sn\atos\projet\tigo\cameltuto\beans\Mybean2.class
+sn\atos\projet\tigo\cameltuto\config\JmsConfig.class
+sn\atos\projet\tigo\cameltuto\rest\api\RestApi.class
+sn\atos\projet\tigo\cameltuto\processor\Consumer$1.class
+sn\atos\projet\tigo\cameltuto\processor\Producer$1.class
+sn\atos\projet\tigo\cameltuto\processor\Consumer.class
+sn\atos\projet\tigo\cameltuto\util\ResponseStatus.class
